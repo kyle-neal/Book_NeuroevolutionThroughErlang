@@ -1,0 +1,3 @@
+[submodule "erlubi"]
+	path = erlubi
+	url = https://github.com/krestenkrab/erlubi.git
